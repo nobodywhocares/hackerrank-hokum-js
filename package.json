@@ -1,0 +1,16 @@
+{
+    "name": "hackerrankjs",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "noahn",
+    "contributors": [],
+    "dependencies": {
+        "node-fetch": "^2.6.1"
+    }
+}
